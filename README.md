@@ -274,14 +274,6 @@ Contributions are welcome.
 fork → clone → create branch → commit → push → pull request
 ```
 
----
-
-## 📜 License
-
-MIT License
-
----
-
 <div align="center">
 
 # 📚 DeskGuard AI
